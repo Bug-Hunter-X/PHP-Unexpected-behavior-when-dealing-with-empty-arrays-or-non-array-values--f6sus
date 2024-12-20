@@ -1,0 +1,1 @@
+This repository demonstrates a common but easily overlooked error in PHP: unexpected behavior when dealing with empty arrays or non-array values passed to functions expecting arrays. The `bug.php` file showcases the erroneous code, while `bugSolution.php` provides a corrected version with robust error handling.
